@@ -101,3 +101,13 @@ Then you need to download or copy the given arduino code and pest it or open it 
 
 PLEASE don't forget to disconnect the hc-05 bluetooth module while uploading the code.
 ![Screenshot (59)](https://user-images.githubusercontent.com/79990158/191965992-92011ab5-9fb3-4c82-86bf-d0e87c68d386.png)
+
+Once you have done all this, only one last part is left which is giving power to your robot. Here i have used one 12v diy rechargeable li-ion battery. which i have made using 18650 li-ion batteries. This is also very easy to make and please click on the link if you want to know How to make 12v rechargeable li-ion battery at home.
+https://www.youtube.com/watch?v=5nu53428TA8
+![Screenshot (64)](https://user-images.githubusercontent.com/79990158/191970952-4fec01b4-dd45-4197-a314-d171fbd5f7e9.png)
+
+## CONNECTING VIA BLUETOOTH
+
+After everything, finally we have to connect the robot with our android phone via bluetooth. There have so many Android app easily available in play store. I have downloaded one of them and installed it in my Android phone. Then I have turned on the robot and serached for HC-05 bluetooth. then they will as for the passward. Most of the cases it is '1234'. then it will connect successfully with the robot. then open the app and run your bot.
+
+![Screenshot (65)](https://user-images.githubusercontent.com/79990158/191972170-f9d67c91-2dfe-4038-ab35-2fb13d0f362e.png)
